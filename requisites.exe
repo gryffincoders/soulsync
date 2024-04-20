@@ -1,0 +1,4 @@
+pip install python
+pip install streamlit
+streamlit run sos.py
+streamlit run daily_tracker_v2.py
