@@ -7,7 +7,7 @@ from openai import OpenAI, AsyncOpenAI
 client = AsyncOpenAI(api_key="sk-proj-1iMn6aZTpQN4ir2njzLGT3BlbkFJFTea2xc0NZjfmEZtRzN6")
 
 
-# openai.api_key = "sk-proj-1iMn6aZTpQN4ir2njzLGT3BlbkFJFTea2xc0NZjfmEZtRzN6"
+# openai.api_key = "YOUR-OWN-API-KEY"
 
 def mental_health_check_in():
     st.write("## Mental Health Check-In")
